@@ -24,16 +24,15 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
-        /*
-         * createPlateform(400, 460);
-         * createPlatform(300,200 0.3)
-         * createPlateform(500, 500, 0.3 10)
-         */
-        createPlatform(0, game.world.height - 32, 3, 2);    // DO NOT DELETE
+     createPlatform(200,620);
+     createPlatform(20,380)
+     createPlatform(380,220)
+     createPlatform(400,320) 
+     createPlatform(30,500) 
+      
+     createPlatform(0, game.world.height - 30, 2, 2);    // DO NOT DELETE
 
-        // example:
-        createPlatform(400, 250);
-        createPlatform(170, 460, 0.5);
+       
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////

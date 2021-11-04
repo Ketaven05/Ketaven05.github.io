@@ -43,7 +43,8 @@
         type.steve      // worth 30 points
         type.grace      // worth 40 points
         type.kennedi    // worth 50 points
-        
+        createCollectable(type.grace,400, 300)
+        createCollectable(type.kennedi,680,120)
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
