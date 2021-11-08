@@ -24,11 +24,11 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
-     createPlatform(200,620);
+     createPlatform(190,620);
      createPlatform(20,380)
      createPlatform(380,220)
      createPlatform(400,320) 
-     createPlatform(30,500) 
+     createPlatform(10,500) 
       
      createPlatform(0, game.world.height - 30, 2, 2);    // DO NOT DELETE
 
